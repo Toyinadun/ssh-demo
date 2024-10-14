@@ -1,2 +1,4 @@
-'Hello world'
-'This is my world and I'm wonderfully made for it'
+1. Hello world'
+2. This is my world and I'm wonderfully made for it'
+3. The world is beautifully made by God for the benefits of mankind.
+4. All things were made by Him(God).
